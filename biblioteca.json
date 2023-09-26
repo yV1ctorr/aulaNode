@@ -1,0 +1,199 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "drama",
+      "id": 4
+    },
+    {
+      "nome": "suspense",
+      "id": 5
+    },
+    {
+      "nome": "terror",
+      "id": 6
+    },
+    {
+      "nome": "HQ´s",
+      "id": 7
+    },
+    {
+      "nome": "comedia",
+      "id": 8
+    },
+    {
+      "nome": "romance",
+      "id": 9
+    },
+    {
+      "nome": "mangá",
+      "id": 10
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "Misto quente",
+      "autor": "charles bukowski",
+      "anoPublicacao": 1982,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 4
+    },
+    {
+      "titulo": "Harry potter: A pedra filosofal",
+      "autor": "J.K. rowling",
+      "anoPublicacao": 1997,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 5
+    },
+    {
+      "titulo": "Harry potter e a câmera secreta",
+      "autor": "J.K. rowling",
+      "anoPublicacao": 1998,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 6
+    },
+    {
+      "titulo": "Harry potter e o prisioneiro de azkaban",
+      "autor": "J.K. rowling",
+      "anoPublicacao": 1999,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 7
+    },
+    {
+      "titulo": "Harry potter e o cálice de fogo",
+      "autor": "J.K. rowling",
+      "anoPublicacao": 2000,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 8
+    },
+    {
+      "titulo": "Harry potter e a ordem da fênix",
+      "autor": "J.K. rowling",
+      "anoPublicacao": 2003,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 9
+    },
+    {
+      "titulo": "Harry potter e o enigma do principe",
+      "autor": "J.K. rowling",
+      "anoPublicacao": 2005,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 10
+    },
+    {
+      "titulo": "Harry potter e as reliquias da morte",
+      "autor": "J.K. rowling",
+      "anoPublicacao": 2007,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 11
+    },
+    {
+      "titulo": "batman: a piada mortal",
+      "autor": "alan moore",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 7,
+      "id": 12
+    },
+    {
+      "titulo": "assombrações do recife, velho",
+      "autor": "gilberto freyre",
+      "anoPublicacao": 1974,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 6,
+      "id": 13
+    },
+    {
+      "titulo": "1984",
+      "autor": "george orwell",
+      "anoPublicacao": 1949,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 14
+    },
+    {
+      "titulo": "revolução dos bichos",
+      "autor": "george orwell",
+      "anoPublicacao": 1945,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 15
+    },
+    {
+      "titulo": "o principe",
+      "autor": " Niccolò Machiavelli",
+      "anoPublicacao": 1532,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 2,
+      "id": 16
+    },
+    {
+      "titulo": "anjos e demonios",
+      "autor": "dan brown",
+      "anoPublicacao": 2000,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 17
+    }
+  ]
+}
